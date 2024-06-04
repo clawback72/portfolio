@@ -7,7 +7,7 @@ Experienced financial professional with over sixteen years in the industry, now 
 Master of Business Administration, West Virginia University Morgantown, WV, August 2004<br/>Bachelor of Arts, Psychology, August 1996, West Virginia University Morgantown, WV, August 1996
 
 ### Certifications
-CS50x - Introduction to Computer Science, Harvard University (edX) - (2023)<br/>CS50p - Introduction to Programming with Python, Harvard University (edX) - (2023)<br/>Investment Foundations Certificate, CFA Institute - (2013)
+CS50x - Introduction to Computer Science, Harvard University (edX), 2023<br/>CS50p - Introduction to Programming with Python, Harvard University (edX), 2023<br/>Investment Foundations Certificate, CFA Institute, 2013
 
 ### Work Experience
 **2019 - 2021**<br/>**BNY Mellon Middle Office Operations Pittsburgh, PA**<br/>*Team Lead, Corporate Actions and Pricing Group* - Retained responsibilities after dissolution and consolidation of North American boutique investment management groups.
