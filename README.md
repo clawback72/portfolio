@@ -1,8 +1,7 @@
 # Data Scientist
 
 ### Education
-Master of Business Administration
-West Virginia University Morgantown, WV, August 2004
+Master of Business Administration<br/>West Virginia University Morgantown, WV, August 2004
 
 Bachelor of Arts, Psychology, August 1996
 West Virginia University Morgantown, WV, August 1996
