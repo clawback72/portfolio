@@ -6,9 +6,7 @@ Master of Business Administration<br/>West Virginia University Morgantown, WV  A
 Bachelor of Arts, Psychology, August 1996<br/>West Virginia University Morgantown, WV  August 1996
 
 ### Certifications
-#### CS50x - Introduction to Computer Science - (2023)
-#### CS50P - Introduction to Programming with Python - (2023)
-#### Investment Foundations Certificate awarded by CFA Institute - (2013)
+CS50x - Introduction to Computer Science - (2023)<br/>CS50P - Introduction to Programming with Python - (2023)<br/>Investment Foundations Certificate awarded by CFA Institute - (2013)
 
 ### Work Experience
 #### 2019 - 2021
