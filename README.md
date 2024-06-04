@@ -10,8 +10,8 @@ CS50P - Introduction to Programming with Python - (2023)
 Investment Foundations Certificate awarded by CFA Institute - (2013)
 
 ### Work Experience
-## 2019 - 2021
-# BNY Mellon Middle Office Operations Pittsburgh, PA
+#### 2019 - 2021
+##### BNY Mellon Middle Office Operations Pittsburgh, PA
 Team Lead, Corporate Actions and Pricing Group - Retained responsibilities after dissolution and consolidation of North American boutique investment management groups
 • Played instrumental role in the migration of accounts from other NA management groups legacy IT platforms to Mellon Capital platforms
 • Harmonized critical procedures and controls across portfolio management groups to insure seamless operational procedures
