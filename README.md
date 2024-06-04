@@ -2,6 +2,7 @@
 
 ### Education
 West Virginia University Morgantown, WV Master of Business Administration, August 2004
+
 West Virginia University Morgantown, WV Bachelor of Arts, Psychology, August 1996
 
 ### Certifications
