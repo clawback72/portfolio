@@ -11,20 +11,19 @@ Experienced financial professional with over sixteen years in the industry, now 
 
 ### Work Experience
 **2019 - 2021**<br/>**BNY Mellon Middle Office Operations, Pittsburgh, PA**<br/>*Team Lead, Corporate Actions and Pricing Group* - Retained responsibilities after dissolution and consolidation of North American boutique investment management groups.
-- Played instrumental role in the migration of accounts from other NA management groups legacy IT platforms to Mellon Capital platforms
-- Harmonized critical procedures and controls across portfolio management groups to insure seamless operational procedures
-- Completed migration to paperless archiving of all daily asset pricing reviews removing the need for costly physical recordkeeping and archiving
-- Quickly organized paperless archiving of all corporate action processing to facilitate entire team working remotely in response to COVID-19 pandemic
+- Played instrumental role in the migration of formerly independent North American investment accounts to Mellon Capital platforms
+- Harmonized procedures across portfolio management groups to ensuring seamless operations
+- Transitioned to paperless archiving, reducing physical recordkeeping costs and facilitating remote work during the covid 19 pandemic
 
 **2011 - 2018**<br/>**Mellon Capital Management, Pittsburgh, PA**<br/>*Manager, Corporate Action and Pricing Group* – Promoted to Manager of Corporate Action and Pricing Group, taking responsibility for department functions and personnel.
-- Responsible for hiring and training team of five associates, conducting informal coaching sessions and formal mid and end year evaluations
-- Transitioned numerous department tasks to support team in Pune, India; conducted regular meetings with this offshore team of four associates to ensure proper handling of tasks
+- Managed a team of five asociates, including hiring, training, and performance evalutions.
+- Transitioned tasks to a support team in Pune, India, ensuring proper handling through regular meetings.
+- Automated manual tasks with the IT team, reducing costly departmental errors.
 - Establish and maintain written department procedures to gain efficiencies and reduce risk in the processing of mandatory and voluntary corporate actions resulting in reduction of costly departmental errors year over year
-- Work with IT team for automation of manual tasks; set parameters and test deployment to production environment
 - Maintain all department generated documents for internal and external audits; ensure historical data is properly catalogued for offsite storage
 - Attend regular meetings with senior management to provide department updates regarding department performance and initiatives
 - Conduct regular meetings with stakeholders across the firm to address current concerns and issues
-- Answer questions from clients concerning market activity, asset pricing and accounting irregularities
+- Answer internal questions concerning market activity, asset pricing and accounting irregularities
 - Meet with potential clients to explain department structure, policies and procedures
 
 **2004 - 2010**<br/>**Mellon Capital Management, Pittsburgh, PA**<br/>*Senior Data Management Specialist, Corporate Action and Pricing Group* - Maintain the integrity of financial data available to portfolio management, performance and accounting departments and provide operational support across a variety of platforms.
