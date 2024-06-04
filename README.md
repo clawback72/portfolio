@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 
 ### Summary
 Experienced financial professional with over sixteen years in the industry, now seeking to leverage my recent coding skills in Python, SQL, C, and more, to transition into a role focused on data analysis, process automation, or software development. Proven track record in team leadership, process optimization, and project management, with a passion for utilizing technology to drive efficiency and innovation.
