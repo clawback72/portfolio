@@ -1,10 +1,9 @@
 # Data Scientist
 
 ### Education
-Master of Business Administration<br/>West Virginia University Morgantown, WV, August 2004
+Master of Business Administration<br/>West Virginia University Morgantown, WV  August 2004
 
-Bachelor of Arts, Psychology, August 1996
-West Virginia University Morgantown, WV, August 1996
+Bachelor of Arts, Psychology, August 1996<br/>West Virginia University Morgantown, WV  August 1996
 
 ### Certifications
 #### CS50x - Introduction to Computer Science - (2023)
